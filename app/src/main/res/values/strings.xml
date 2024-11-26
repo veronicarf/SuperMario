@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SuperMario</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <!-- Nombres personajes en card (lista) y segunda pantalla -->
+    <string name="character_image_desc">Descripción de la imagen</string>
+    <string name="mario_name">MARIO</string>
+    <string name="luigi_name">LUIGI</string>
+    <string name="peach_name">PEACH</string>
+    <string name="toad_name">TOAD</string>
+
+    <!-- Descripción personajes -->
+    <string name="desc">DESCRIPCIÓN:</string>
+    <string name="desc_mario">El protagonista principal de la saga. Es un fontanero italiano conocido por su valentía y espíritu heroico. Viste una camiseta roja, pantalones azules y lleva un gorro rojo con una M en él. Su misión más común es salvar a la Princesa Peach y al Reino Champiñón.</string>
+    <string name="desc_luigi">Hermano de Mario, también fontanero, pero generalmente más alto y delgado que Mario. Lleva un gorro verde con una L y tiene una personalidad más tímida. Aunque a menudo es el acompañante de Mario, en varios juegos es el protagonista.</string>
+    <string name="desc_toad">Princesa del Reino Champiñón, conocida por su vestido rosa y su actitud amable y noble. A menudo es la damisela en apuros que Mario debe rescatar, pero en algunos juegos también se muestra valiente y capaz de luchar por sí misma.</string>
+    <string name="desc_peach">Un fiel sirviente del Reino Champiñón. Es un pequeño personaje con un sombrero blanco con manchas rojas y un traje azul. Aunque no tiene mucha habilidad de combate, es un personaje muy simpático y suele ayudar a Mario y a sus amigos en sus aventuras.</string>
+
+    <!-- Poderes personajes -->
+    <string name="hab">HABILIDADES:</string>
+
+    <string name="hab_mario">Super Salto\nFuerza\nPower-ups\nVersatilidad</string>
+
+    <string name="hab_luigi">Salto más alto\nMás ágil\nPower-ups\nHabilidad especial en algunos juegos</string>
+
+    <string name="hab_peach">Flotar\nHabilidad para curarse\nPoder de combate</string>
+
+    <string name="hab_toad">Velocidad\nResistencia\nCapacidad para llevar objetos</string>
+
+
+    <!-- menu superior-->
+
+    <string name="about_de">Acerca de</string>
+    <string name="super_mario">Super Mario</string>
+    <string name="ace_text">APLICACIÓN DESARROLLADA POR VERÓNICA ROMERO FERNANDEZ</string>
+
+
+<!-- Snackbar-->
+
+  <string name="bienvenidos">Bienvenidos al mundo de Mario</string>
+
+    <!-- Toast-->
+
+    <string name="toast">Se ha seleccionado el personaje </string>
+
+    <!-- Menu lateral -->
+
+    <string name="home">Inicio</string>
+    <string name="setting">Ajustes</string>
+    <string name="lenguage">Idioma</string>
+
+    <string name="select_language">Selecciona el idioma</string>
+
+    <!-- ventana ajustes -->
+    <string name="ajustes_de_usuario">Ajustes de Usuario</string>
+    <string name="ajustes_de_tema">Ajustes de Tema</string>
+    <string name="salir">Salir</string>
+
+
+</resources>

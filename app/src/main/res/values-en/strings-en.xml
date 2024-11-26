@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperMario</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Character names in card (list) and second screen -->
+    <string name="character_image_desc">Image description</string>
+    <string name="mario_name">MARIO</string>
+    <string name="luigi_name">LUIGI</string>
+    <string name="peach_name">PEACH</string>
+    <string name="toad_name">TOAD</string>
+
+    <!-- Character descriptions -->
+    <string name="desc">DESCRIPTION:</string>
+    <string name="desc_mario">The main protagonist of the saga. He is an Italian plumber known for his bravery and heroic spirit. He wears a red shirt, blue pants, and a red cap with an M on it. His most common mission is to save Princess Peach and the Mushroom Kingdom.</string>
+    <string name="desc_luigi">Mario´s brother, also a plumber, but generally taller and slimmer than Mario. He wears a green cap with an L and has a shyer personality. While often Mario´s sidekick, in several games, he is the protagonist.</string>
+    <string name="desc_toad">Princess of the Mushroom Kingdom, known for her pink dress and kind and noble attitude. She is often the damsel in distress that Mario must rescue, but in some games, she is shown to be brave and capable of fighting for herself.</string>
+    <string name="desc_peach">A loyal servant of the Mushroom Kingdom. She is a small character with a white hat with red spots and a blue outfit. Although she has little combat ability, she is a very friendly character and often helps Mario and his friends in their adventures.</string>
+
+    <!-- Character powers -->
+    <string name="hab">ABILITIES:</string>
+
+    <string name="hab_mario">Super Jump\nStrength\nPower-ups\nVersatility</string>
+
+    <string name="hab_luigi">Higher Jump\nMore Agile\nPower-ups\nSpecial Ability in some games</string>
+
+    <string name="hab_peach">Float\nHealing Ability\nCombat Power</string>
+
+    <string name="hab_toad">Speed\nEndurance\nAbility to Carry Objects</string>
+
+    <!-- Top menu-->
+    <string name="about_de">About</string>
+    <string name="super_mario">Super Mario</string>
+    <string name="ace_text">APPLICATION DEVELOPED BY VERÓNICA ROMERO FERNÁNDEZ</string>
+
+    <!-- Snackbar-->
+    <string name="bienvenidos">Welcome to the world of Mario</string>
+
+    <!-- Toast-->
+    <string name="toast">You have selected the character </string>
+
+    <!-- Side menu -->
+    <string name="home">Home</string>
+    <string name="setting">Settings</string>
+    <string name="lenguage">Language</string>
+    <string name="select_language">Select language</string>
+
+
+    <!-- settings window -->
+
+
+
+
+
+    <string name="ajustes_de_usuario">User Settings</string>
+    <string name="ajustes_de_tema">Theme Settings</string>
+    <string name="salir">Exit</string>
+</resources>

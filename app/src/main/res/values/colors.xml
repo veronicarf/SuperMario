@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores  letras-->
+    <color name="colorMario">#EB0F3B</color>
+    <color name="colorLuigi">#4CAF50</color>
+    <color name="colorPeach">#9C27B0</color>
+    <color name="colorToad">#2196F3</color>
+
+    <!-- Colores fondo pantalla personajes-->
+
+
+    <color name="fondoMario">#DD1C1C</color>
+    <color name="fondoLuigi">#4CAF50</color>
+
+    <color name="fondoPeach">#BE71D8</color>
+
+    <color name="fondoToad">#7BD2DD</color>
+
+
+    <color name="color_spashf">#EEE8E8</color>
+
+</resources>
