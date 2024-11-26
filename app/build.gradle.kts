@@ -3,11 +3,13 @@ plugins {
 }
 
 android {
+
+android {
     namespace = "com.romerofernandez.supermario"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.romerofernandez.supermario"
+        applicationId = "com.romerofernandez.dddd"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
